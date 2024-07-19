@@ -1,0 +1,29 @@
+The Rules are to not open the .py files that include the solutions,
+unless you have a solution figured out or you can not solve it.
+Do not worry because it is very difficult and beginners can not
+usually solve such problems, once you solve enough problems you will
+start to notice patters so don't worry, everyone started from where
+you are currently! :D
+
+Exercise 1. Write a print function with the proper parameters that
+outputs a 4 story pyramid made out of 0's.
+Output Example:
+   0
+  000
+ 00000
+0000000
+
+Exercise 2. Write the same program on one line, using \n as the
+newline command.
+Output Example:
+   0
+  000
+ 00000
+0000000
+
+Exercise 3. Create a program using an Integer variable, a Float
+variable, an Answer(float variable) variable and a string variable
+Do the calculation in the Answer variable.
+*The numbers don't matter*
+Output Example:
+The answer is: 12.0
